@@ -24,17 +24,25 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * 2BR radio Lancashire: [Northerners more likely to die prematurely](https://www.2br.co.uk/news/local-news/2636439/northerners-more-likely-to-die-prematurely/) *19 July 2018*
 * Dudley News: [Stats reveal early death rates in Dudley borough](http://www.dudleynews.co.uk/news/16361852.stats-reveal-early-death-rates-in-dudley-borough/) *19 July 2018*
 * Portsmouth: The News: [Portsmouth and Gosport named in top 20 for men dying prematurely](https://www.portsmouth.co.uk/news/health/portsmouth-and-gosport-named-in-top-20-for-men-dying-prematurely-1-8572363https://www.portsmouth.co.uk/news/health/portsmouth-and-gosport-named-in-top-20-for-men-dying-prematurely-1-8572363) *19 July 2018*
-
+* Swindon Advertiser: [REVEALED: 1,200 avoidable deaths in Swindon since 2014](http://www.swindonadvertiser.co.uk/news/16364520.revealed-1200-avoidable-deaths-in-swindon-since-2014/) *19 July 2018*
+* Stroud News & Journal: [Nearly 700 deaths in Stroud over two years were avoidable](http://www.stroudnewsandjournal.co.uk/news/16364722.nearly-700-deaths-in-stroud-over-two-years-were-avoidable/) *19 July 2018*
+* Blackpool Gazette: [How do we end shame of needless deaths?](https://www.blackpoolgazette.co.uk/news/how-do-we-end-shame-of-needless-deaths-1-9259263) *19 July 2018*
+* Birmingham Eastside: [Avoidable death 32% higher in the West Midlands’ most deprived cities](http://birminghameastside.com/2018/07/19/avoidable-death-west-midlands-most-deprived-cities/) *19 July 2018*
+* Droitwich Spa Advertiser: [Worcestershire's death rate from avoidable causes is revealed](http://www.droitwichadvertiser.co.uk/news/16365785.worcestershires-death-rate-from-avoidable-causes-is-revealed/) *19 July 2018*
+* Bromsgrove Advertiser: [http://www.bromsgroveadvertiser.co.uk/news/16366873.stats-reveal-early-death-rates-in-bromsgrove/](http://www.bromsgroveadvertiser.co.uk/news/16366873.stats-reveal-early-death-rates-in-bromsgrove/) *19 July 2018*
+* Malvern Gazette: [Worcestershire's death rate from avoidable causes is revealed](http://www.malverngazette.co.uk/news/16365787.worcestershires-death-rate-from-avoidable-causes-is-revealed/) *19 July 2018*
+* Hereford Times: [Worcestershire's death rate from avoidable causes is revealed](https://www.herefordtimes.com/news/regional/16365787.worcestershires-death-rate-from-avoidable-causes-is-revealed/) *19 July 2018*
+* Worcester News: [Worcestershire's death rate from avoidable causes is revealed](http://www.worcesternews.co.uk/news/16365783.worcestershires-death-rate-from-avoidable-causes-is-revealed/) *19 July 2018*
 * Scotland: The Times: [Action urged as number of avoidable deaths rises](https://www.thetimes.co.uk/article/action-urged-as-number-of-avoidable-deaths-rises-tn83dkz0s) *20 July 2018*
 * Derry Journal: [Derry has one of highest premature death rates](https://www.derryjournal.com/news/health/derry-has-one-of-highest-premature-death-rates-1-8574509) *20 July 2018*
-
-
-
-
 * The Scotsman: [Scotland tops UK’s unavoidable death rate list](https://www.scotsman.com/news/scotland-tops-uk-s-unavoidable-death-rate-list-1-4771409) *20 July 2018*
+* The Kidderminster Shuttle: [Stats reveal early death rates in Wyre Forest](http://www.kidderminstershuttle.co.uk/news/16366872.stats-reveal-early-death-rates-in-wyre-forest/) *20 July 2018*
+* Redditch & Alcester Advertiser: [Stats reveal early death rates in Redditch](http://www.redditchadvertiser.co.uk/news/16366875.stats-reveal-early-death-rates-in-redditch/) *20 July 2018*
 * Birmingham Mail: [Baggies fan sheds nine stone after he almost got stuck in turnstile](https://www.birminghammail.co.uk/news/midlands-news/baggies-fan-sheds-nine-stone-14934176) *21 July 2018*
 * Liverpool Echo: [People are dying years younger than they should in Liverpool - because of the poverty they face](https://www.liverpoolecho.co.uk/news/liverpool-news/people-dying-years-younger-should-14937015) *22 July 2018*
-
+* Lancashire: The Visitor: [Lancashire’s ‘early deaths’ ratings highlight north-south divide](https://www.thevisitor.co.uk/news/lancashire-s-early-deaths-ratings-highlight-north-south-divide-1-9264666) *23 July 2018*
+* Halstead Gazette: [Tendring men at more risk of dying early, says BBC study](http://www.halsteadgazette.co.uk/news/north_essex_news/16368620.tendring-men-at-more-risk-of-dying-early-says-bbc-study/) *23 July 2018*
+* Johnstone and Renfrewshire: The Gazette: [Report reveals one in five deaths locally are avoidable](http://www.the-gazette.co.uk/news/16375982.report-reveals-one-in-five-deaths-locally-are-avoidable/) *25 July 2018*
 
 
 ## Get the data
