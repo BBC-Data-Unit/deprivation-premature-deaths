@@ -21,8 +21,14 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancashire Post: [Preston named in top 20% of places where people die 'too early'](https://www.lep.co.uk/news/health/preston-named-in-top-20-of-places-where-people-die-too-early-1-9258137) *19 July 2018*
 * Scotland: The Herald: [Avoidable deaths on Western Isles much higher than Shetland or Orkney](http://www.heraldscotland.com/news/16362925.avoidable-deaths-on-western-isles-much-higher-than-shetland-or-orkney/) *19 July 2018*
 * Belfast Live: [Belfast's poor suffer most avoidable deaths in the UK](https://www.belfastlive.co.uk/news/health/belfasts-poor-suffer-most-avoidable-14927591) *19 July 2018*
-
+* Stourbridge News: [Stats reveal early death rates in Dudley borough](http://www.stourbridgenews.co.uk/news/16361852.stats-reveal-early-death-rates-in-dudley-borough/) *19 July 2018*
+* Rochdale Online: [Rochdale one of the worst areas in England for premature deaths](http://www.rochdaleonline.co.uk/news-features/2/news-headlines/120577/rochdale-one-of-the-worst-areas-in-england-for-premature-deaths) *19 July 2018*
+* Halesowen News: [Stats reveal early death rates in Dudley borough](http://www.halesowennews.co.uk/news/16361852.stats-reveal-early-death-rates-in-dudley-borough/) *19 July 2018*
+* 2BR radio Lancashire: [Northerners more likely to die prematurely](https://www.2br.co.uk/news/local-news/2636439/northerners-more-likely-to-die-prematurely/) *19 July 2018*
+* Dudley News: [Stats reveal early death rates in Dudley borough](http://www.dudleynews.co.uk/news/16361852.stats-reveal-early-death-rates-in-dudley-borough/) *19 July 2018*
 * Derry Journal: [Derry has one of highest premature death rates](https://www.derryjournal.com/news/health/derry-has-one-of-highest-premature-death-rates-1-8574509) *20 July 2018*
+
+
 
 * The Scotsman: [Scotland tops UK’s unavoidable death rate list](https://www.scotsman.com/news/scotland-tops-uk-s-unavoidable-death-rate-list-1-4771409) *20 July 2018*
 * Birmingham Mail: [Baggies fan sheds nine stone after he almost got stuck in turnstile](https://www.birminghammail.co.uk/news/midlands-news/baggies-fan-sheds-nine-stone-14934176) *21 July 2018*
