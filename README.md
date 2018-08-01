@@ -44,7 +44,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Halstead Gazette: [Tendring men at more risk of dying early, says BBC study](http://www.halsteadgazette.co.uk/news/north_essex_news/16368620.tendring-men-at-more-risk-of-dying-early-says-bbc-study/) *23 July 2018*
 * Johnstone and Renfrewshire: The Gazette: [Report reveals one in five deaths locally are avoidable](http://www.the-gazette.co.uk/news/16375982.report-reveals-one-in-five-deaths-locally-are-avoidable/) *25 July 2018*
 
-* The story was also used for a feature by [BBC Manchester](https://www.bbc.co.uk/news/uk-england-44886345), [BBC Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-44872268), [BBC Scotland](https://www.bbc.co.uk/news/uk-scotland-44872590), Good Morning Ulster, BBC Radio Humberside and BBC Radio Cambridgeshire
+* The story was also used for a feature by [BBC Manchester](https://www.bbc.co.uk/news/uk-england-44886345), [BBC Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-44872268), [BBC Scotland](https://www.bbc.co.uk/news/uk-scotland-44872590), [Good Morning Ulster](https://drive.google.com/file/d/1u_UQZnIXQckB082iBzkqrAJxL1f4YV7W/view?usp=sharing), [BBC Radio Humberside](https://drive.google.com/file/d/14oeX9aJHeszTRKmdNgFZ6a5kbVTT2OwE/view?usp=sharing) and [BBC Radio Cambridgeshire](https://drive.google.com/file/d/1A9r2Dd6GyISffl0vZS7VYG19rOuKemcA/view?usp=sharing)
 
 
 ## Get the data
