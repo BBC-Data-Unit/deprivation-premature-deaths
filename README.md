@@ -44,6 +44,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Halstead Gazette: [Tendring men at more risk of dying early, says BBC study](http://www.halsteadgazette.co.uk/news/north_essex_news/16368620.tendring-men-at-more-risk-of-dying-early-says-bbc-study/) *23 July 2018*
 * Johnstone and Renfrewshire: The Gazette: [Report reveals one in five deaths locally are avoidable](http://www.the-gazette.co.uk/news/16375982.report-reveals-one-in-five-deaths-locally-are-avoidable/) *25 July 2018*
 
+* The story was also used for a feature by [BBC Manchester](https://www.bbc.co.uk/news/uk-england-44886345), 
+
 
 ## Get the data
 
