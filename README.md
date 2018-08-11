@@ -50,7 +50,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 ## Get the data
 
 * [Avoidable death rates data](https://docs.google.com/spreadsheets/d/1ZEiEkW6sLxV2C_Gq1gcfDM64at96eBWPntMxoU6Pq9M/edit?usp=sharing)
-* A [correlation analysis](https://github.com/BBC-Data-Unit/deprivation-premature-deaths/blob/master/Death_correlation.nb.html) was done by **Carmen Aguilar Garcia** using R
+* A [correlation analysis](https://github.com/BBC-Data-Unit/deprivation-premature-deaths/blob/master/Death_correlation.nb.html) was done by **Carmen Aguilar Garcia** using R. [Further correlation analysis and funnel plot was done for the West Midlands](https://rpubs.com/Carmen_Aguilar/correlation-and-funnelplot)
 
 ## Visualisation
 
